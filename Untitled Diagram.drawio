@@ -525,7 +525,7 @@
             <mxPoint x="22.5" y="22.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGutqkRpFIKBOVHA8Ok0-7" value="siswa terdaftar bimbel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="rGutqkRpFIKBOVHA8Ok0-7" value="siswa terdaftar kelas bimbel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1020" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XBmxEDPBcmxchhxvGRJk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -560,7 +560,6 @@
             <mxPoint x="150" y="170" as="sourcePoint" />
             <mxPoint x="264" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="180" />
               <mxPoint x="140" y="145" />
             </Array>
           </mxGeometry>
